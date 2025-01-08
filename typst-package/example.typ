@@ -6,7 +6,7 @@
 
 #pagebreak()
 
-#mahjong("2312936963s", tile_gap: 0.2, group_gap: 1.0 / 4.0, alt: "majhong")
+#mahjong("2312936963s", tile-gap: 0.2, group-gap: 1.0 / 4.0, alt: "majhong")
 
 #pagebreak()
 
