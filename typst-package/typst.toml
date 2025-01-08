@@ -6,4 +6,9 @@ authors = ["hongjr03 <https://github.com/hongjr03>"]
 description = "Riichi-hand-rs but in Typst."
 license = "MIT"
 repository = "https://github.com/hongjr03/typst-mahjong-tiles"
-categories = ["components"]
+keywords = [
+    "wasm",
+    "rust",
+    "mahjong",
+    "visualization",
+]
